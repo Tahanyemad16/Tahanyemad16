@@ -1,13 +1,18 @@
 # Hi , I'm Tahany Emad Mohammed 👋
 
-```dart
-void introduce() {
-  print("Hi, I'm Tahany Emad Mohammed, a CS student @ Zagazig University.");
-  print("Passionate about Problem solving and Mobile Application development.");
-}
+```c++
+#include <iostream>
+using namespace std;
 
-void main() {
-  introduce();
+void introduce() {
+    cout << "Hi, I'm Shams Yasser Alalfy, a CS student @ Zagazig University." << endl;
+    cout << "I'm interested in Front-End development, Mobile Application development, and Cybersecurity." << endl;
+    cout << "I believe in continuous learning and enjoy solving problems creatively." << endl;
+}
+int main() {
+    introduce();
+    
+    return 0;
 }
 ```
 
