@@ -5,7 +5,7 @@
 using namespace std;
 
 void introduce() {
-    cout << "Hi, I'm Shams Yasser Alalfy, a CS student @ Zagazig University." << endl;
+    cout << "Hi, I'm Tahany Emad Mohammed, a CS student @ Zagazig University." << endl;
     cout << "I'm interested in Front-End development, Mobile Application development, and Cybersecurity." << endl;
     cout << "I believe in continuous learning and enjoy solving problems creatively." << endl;
 }
@@ -19,12 +19,16 @@ int main() {
 
 ## Currently Learning
 - Dart
-- Enhancing my knowledge of C++, OOP, Data Structures, and Mobile Applications
+- HTML
+- CSS
+- Java Script
+- Enhancing my knowledge of C++, OOP, Data Structures
 
 ---
 
 ## Skills 
-[![My Skills](https://skillicons.dev/icons?i=cpp,dart&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,dart,html,css&perline=3)](https://skillicons.dev)
+
 
 ---
 
