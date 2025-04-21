@@ -1,19 +1,8 @@
 # Hi , I'm Tahany Emad Mohammed 👋
 
-```c++
-#include <iostream>
-using namespace std;
-
-void introduce() {
-    cout << "Hi, I'm Tahany Emad Mohammed, a CS student @ Zagazig University." << endl;
-    cout << "I'm interested in Full-Stack and Mobile Application development." << endl;
-    cout << "I believe in continuous learning and enjoy solving problems creatively." << endl;
-}
-int main() {
-    introduce();
-    
-    return 0;
-}
+```
+    I'm interested in Full-Stack.
+    I believe in continuous learning and enjoy solving problems creatively.
 ```
 
 
@@ -21,7 +10,7 @@ int main() {
 - Dart
 - HTML
 - CSS
-- Java Script
+- php
 - Enhancing my knowledge of C++, OOP, Data Structures
 
 ---
