@@ -1,10 +1,5 @@
 # Hi , I'm Tahany Emad Mohammed 👋
 
-```
-    I'm interested in Full-Stack.
-    I believe in continuous learning and enjoy solving problems creatively.
-```
-
 
 ## Currently Learning
 - Dart
@@ -16,8 +11,7 @@
 ---
 
 ## Skills 
-[![My Skills](https://skillicons.dev/icons?i=cpp,dart,html,css&perline=3)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=cpp,dart,html,css,php&perline=3)](https://skillicons.dev)
 
 ---
 
