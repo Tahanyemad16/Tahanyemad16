@@ -1,7 +1,7 @@
 # Hi , I'm Tahany Emad Mohammed 👋
 - 2nd year computer science student @ Zagazig Unvisrsity
 - Mentor @ [ICPC Zagzig Community](https://icpczagazig.org/)
-- Backend track member @ [IEEE ZSB CS Chapter](https://icpczagazig.org/)
+- Backend track member @ [IEEE ZSB CS Chapter](https://ieee.org.eg/zagazig/)
 
 ## Currently Learning
 - Dart
