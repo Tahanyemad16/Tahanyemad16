@@ -1,4 +1,4 @@
-# Hi , I'm Tahany Emad Mohammed 👋
+# Hi , I'm Tahany 
 I'm Tahany Emad, a Computer Science student with a strong interest in backend development, and competitive programming.
 I'm passionate about solving real-world problems through code and contributing to tech communities like ICPC and IEEE.
 
