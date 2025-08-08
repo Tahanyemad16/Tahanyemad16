@@ -4,17 +4,20 @@ I'm passionate about solving real-world problems through code and contributing t
 
 
 ## Currently Learning
-- Dart
 - HTML
 - CSS
 - php
 - mysql
+- Java
+- JavaScript
+- laravel
+- Dart
 - Enhancing my knowledge of C++, OOP, Data Structures
 
 ---
 
 ## Skills 
-[![My Skills](https://skillicons.dev/icons?i=cpp,dart,html,css,php,mysql&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,dart,html,css,java,javascript,php,mysql&perline=3)](https://skillicons.dev)
 
 
 ---
