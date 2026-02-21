@@ -1,7 +1,16 @@
 # Hi , I'm Tahany Emad
-I'm Tahany Emad, a Computer Science student with a strong interest in backend development, and competitive programming.
+A Computer Science student with a strong interest in backend development, and competitive programming.
 I'm passionate about solving real-world problems through code and contributing to tech communities like ICPC and IEEE.
 
+---
+
+# About Me
+- Student at Faculty of Computers & Information
+- Backend Developer (PHP/Laravel & Node.js)
+- Lead @ ZagEng Backend Node.js Track
+- Mentor @ ICPC Zagazig
+
+---
 
 ## My Learning
 - HTML
