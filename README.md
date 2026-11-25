@@ -40,4 +40,3 @@ Also: REST API design, JWT & RBAC, Socket.io, Swagger, OOP, data structures & al
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahanyemad30@gmail.com)
 [![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Tahany_)
 
-I'm open to backend and full-stack roles starting after July 2027.
